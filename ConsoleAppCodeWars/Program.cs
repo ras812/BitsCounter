@@ -30,6 +30,10 @@ namespace ConsoleAppCodeWars
         {
             Console.WriteLine(CountBits(1234));
             Console.ReadKey();
+
+
+
+
         }
     }
 }
